@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RachaConta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7926d35cba8138fa203c8fad4af44867722c4804")]
 [assembly: System.Reflection.AssemblyProductAttribute("RachaConta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RachaConta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
