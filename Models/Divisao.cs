@@ -14,10 +14,12 @@ public class Divisao
 
     [ForeignKey("Devedor")]
     public int DevedorId { get; set; }
+    [InverseProperty("DevedorDivisoes")]
     public Pessoa Devedor { get; set; }
 
     [ForeignKey("Credor")]
     public int CredorId { get; set; }
+    [InverseProperty("CredorDivisoes")]
     public Pessoa Credor { get; set; }
 
     [Required]
